@@ -1,0 +1,12 @@
+.cart{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 700px;
+    margin: auto;
+}
+.cart-products ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+}

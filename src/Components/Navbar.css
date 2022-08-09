@@ -1,0 +1,33 @@
+.nav-container{
+    background-color: #4169E1;
+    display: flex;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-logo{
+    color: #fff;
+    font-size: 25px;
+    margin: 19px 70px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.nav-items ul{
+    margin: 22px 70px;
+    box-sizing: border-box;
+    list-style: none;
+    display: flex;
+    font-size: 18px;
+}
+.nav-items ul li a{
+    padding-left: 15px;
+    color:#FFF5EE;
+    text-decoration: none;
+}
+.nav-items ul li a:hover{
+    color: #fff;
+    cursor: pointer;
+}
+span{
+    font-size: 12px;
+    vertical-align: super;
+}

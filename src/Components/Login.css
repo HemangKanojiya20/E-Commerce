@@ -1,0 +1,26 @@
+.loginpage{
+    width: 380px;
+    height: 400px;
+    margin: 130px auto;
+    padding: 95px 60px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #E2DFD2, -5px -5px 5px#E2DFD2;
+}
+.inputfield label{
+    float: left;
+}
+.inputfield input{
+    float: right;
+}
+.login-btn{
+    width: 270px;
+    margin: auto;
+}
+.accountcreate{
+   text-align: left;
+   width: 300px;
+   margin: auto;
+}
